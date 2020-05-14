@@ -1,0 +1,13 @@
+html {
+  background: url("../assets/stars.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.card {
+  -webkit-text-stroke: .25px black;   
+  background: rgb(85,85,85);
+  background: linear-gradient(180deg, rgba(85,85,85,1) 0%, rgba(204,204,204,1) 1%, rgba(238,238,238,1) 32%, rgba(255,255,255,1) 65%, rgba(238,238,238,1) 87%, rgba(119,119,119,1) 100%);
+}
